@@ -34,7 +34,7 @@ const Navbar = () => {
                 <li><NavLink to="/skills" className={({ isActive }) => isActive ? 'navStyle' : ''}>Skills</NavLink></li>
                 <li><NavLink to="/projects" className={({ isActive }) => isActive ? 'navStyle' : ''}>Projects</NavLink></li>
                 <button onClick={toggleTheme} className="p-2 rounded-md">
-                    <img className='w-8  ' src={`${theme === 'light' ? 'Dark.png' : 'light.png'}`} alt="" />
+                    <img className='w-8  ' src={`${theme === 'light' ? 'light.png' : 'Dark.png'}`} alt="" />
                 </button>
             </ul>
             <div className="flex items-center justify-center md:hidden">

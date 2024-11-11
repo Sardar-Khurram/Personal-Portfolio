@@ -15,17 +15,10 @@ const Home = () => {
           </p>
         </div>
         <div className="w-full mt-4 lg:mt-0 lg:w-1/2">
-          <img src="p4.jpg" alt="tailwind css components" className="w-full h-full max-w-md mx-auto" />
+          <img src='/self.jpeg' alt="tailwind css components" className="w-full h-full max-w-md mx-auto" />
         </div>
       </section>
-
-
-
-
     </main>
-
-    
-    
   )
 }
 
