@@ -52,7 +52,7 @@ const Projects = () => {
       description: 'A Personal portfolio designed especially to showcase all of my projects.',
       image: 'project4.png',
       githubLink: 'https://github.com/Sardar-Khurram/Personal-Portfolio',
-      demoLink: 'https://blog-template-sardar-khurrams-projects.vercel.app/',
+      demoLink: 'https://personal-portfolio-delta-eosin-92.vercel.app/',
     },
     {
       title: 'Spotify-Clone',
