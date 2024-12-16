@@ -31,7 +31,7 @@ const Projects = () => {
       description: 'A simple and efficient app to organize, track, and manage your tasks, boosting productivity with ease.',
       image: 'project2.png',
       githubLink: 'https://github.com/Sardar-Khurram/Project-1-Todolist-App-Using-React-Tailwindcss-and-React-Icons',
-      demoLink: 'https://todo-app-sardar-khurrams-projects.vercel.app/',
+      demoLink: 'https://todo-app-sage-alpha.vercel.app/',
     },
     {
       title: 'Blog Template',
