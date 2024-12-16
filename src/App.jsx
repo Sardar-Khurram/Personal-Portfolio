@@ -1,7 +1,6 @@
 import './App.css';
 import About from './components/About';
 import Contact from './components/Contact';
-import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Navbar from './components/Navbar'; 
 import Footer from './components/Footer'; 
@@ -25,10 +24,6 @@ const routes = createBrowserRouter([
   {
     path: '/projects',
     element: <> <Navbar /> <Projects />  <Footer /></>
-  },
-  {
-    path: '/skills',
-    element: <> <Navbar /> <Skills />  <Footer /></>
   },
 ]);
 
